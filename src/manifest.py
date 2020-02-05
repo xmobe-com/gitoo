@@ -1,5 +1,5 @@
 name = 'gitoo'
 description = 'Odoo third party addons installer.'
-url = 'https://github.com/numigi/gitoo'
-email = 'contact@numigi.com'
-author = 'numigi'
+url = 'https://github.com/xmobe-com/gitoo'
+email = 'quanganh@xmobe.com'
+author = 'quanganh206'
